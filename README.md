@@ -5,7 +5,7 @@ A small project to get better with git and other systems on arch linux and othr 
 ## TaskList :
 
 - [x] making a example REAMDME
-- [] git and some commands
+- [] git and some commands : git add . (all files staging) , git commit -m "message"
 - [] rebase and merge
 - [] 29.03.2025 real dotfiles repository for beiing on the real transformation...
 
