@@ -2,6 +2,9 @@
 
 A small project to get better with git and other systems on arch linux and othr bla bla ...
 
+The purpose of this repository is to get better with git and my skills about programming some scripts or get along to save for g sake 
+my dotfiles ...
+
 ## TaskList :
 
 - [x] making a example REAMDME
